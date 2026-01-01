@@ -1,2 +1,22 @@
-# Cv-image-classification
-Convolutional Neural Network project for image classification using the CIFAR-10 dataset. The model classifies images into 10 categories with high accuracy and demonstrates real-time prediction.
+# Image Classification using CNN
+
+This project implements a Convolutional Neural Network to classify images into different categories.
+
+## Dataset
+CIFAR-10 dataset containing 10 image classes.
+
+## Technologies
+- Python
+- TensorFlow
+- CNN
+- Google Colab
+
+## Workflow
+1. Dataset loading
+2. Image normalization
+3. CNN model building
+4. Model training
+5. Evaluation and prediction
+
+## Result
+The model successfully classifies images with good accuracy.
